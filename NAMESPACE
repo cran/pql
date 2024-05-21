@@ -1,0 +1,13 @@
+exportPattern("^[[:alpha:]]+")
+export(pqlBLogist)
+export(pqlBpoisson1)
+export(pqlLogist)
+export(pqlBpoisson2)
+export(pqlPoisson)
+importFrom(stats, glm, quasibinomial, quasipoisson, var)
+importFrom(stats, rpois, runif)
+import(pracma)
+importFrom(pracma,grad,hessian)
+import(parallel)
+
+

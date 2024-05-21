@@ -1,0 +1,13 @@
+916c2588af548afe87d060ca07957796 *DESCRIPTION
+6fc31a42ff9224b45a8d860430587141 *LICENSE
+a53c893405c16ec38aaaed7dc0a7a5b3 *NAMESPACE
+93a3c8c6db6383c94b6db9cd0325d87a *R/pqlBLogist.R
+7bccd0595c599ef087ff51d0c9c2c982 *R/pqlBpoisson1.R
+f40c9ea89e226efa5ae59b2027b16d45 *R/pqlBpoisson2.R
+28b6cf4ed145502df5dc3fe7303e0c82 *R/pqlLogist.R
+744734c41134d53f2c64459c494e59fa *R/pqlPoisson.R
+5ecd46ba0d32aa7811920f3e0e34f873 *man/pqlBLogist.Rd
+62a80ef3006c23ca3d66ceeae773fdf8 *man/pqlBpoisson1.Rd
+4104a28d1e3c545252f168f69b044720 *man/pqlBpoisson2.Rd
+51ad72f9154b02f2dce3c21e39a1f78b *man/pqlLogist.Rd
+68912186d16aeea8ea3eac32a52b85b3 *man/pqlPoisson.Rd
